@@ -9,7 +9,7 @@ The notebook **generate_analogs_and_dock.ipynb** has an example which performs t
 - Generate interaction fingerprints for the docked ligands
 
 The notebook requires the following
-- Spruce, Omega2, and Fred from OpenEye scientific software
+- Spruce, Omega2, and Hybrid from OpenEye scientific software
 
 ### Installation
 ```
