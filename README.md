@@ -16,6 +16,6 @@ The notebook requires the following
 ```
 pip install rdkit mols2grid useful_rdkit_utils prolif seaborn
 ```
+### Notes
 
-
-
+The file data/fragment_lead_pairs.csv was taken from https://pubs.acs.org/doi/10.1021/acs.jmedchem.3c02070
